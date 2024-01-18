@@ -5,7 +5,7 @@
 - 🗣 I speak English, Nepali.
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=|Fortis+Fortuna+Adiuvat+|" alt="Intro" >
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=|+Fortis+Fortuna+Adiuvat+|" alt="Intro" >
  
 <br/>  
 
