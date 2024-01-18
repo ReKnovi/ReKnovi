@@ -1,6 +1,11 @@
+<h1 align="center">Howdy</h1>
+
 - 🔭 I’m currently working as  Intern
 - 🌱 I’m currently learning Rust and Go.
 - 🗣 I speak English, Nepali.
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=Fortis+Fortuna+Adiuvat" alt="Intro" >
  
 <br/>  
 
@@ -53,15 +58,14 @@
 # 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 # 
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ReKnovi&theme=dark&hide_border=false&include_all_commits=true&count_private=true" align="left" />
-</div>  
-<div align="right">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ReKnovi&theme=dark&hide_border=false" align="right" />
-</div> 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReKnovi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center" />
-</div>  
 
+![](https://github-readme-stats.vercel.app/api?username=ReKnovi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ReKnovi&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ReKnovi&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+
+<h1 align="center"> </h1>
+<h1 align="center">As Far Back As I Can Remember, I Always Wanted To Be A Gangster.</h1>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
