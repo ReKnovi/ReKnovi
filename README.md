@@ -53,10 +53,14 @@
 # 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 # 
-![](https://github-readme-stats.vercel.app/api?username=ReKnovi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ReKnovi&theme=dark&hide_border=false)<br/>
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=ReKnovi&theme=dark&hide_border=false&include_all_commits=true&count_private=true" align="left" />
+</div>  
+<div align="right">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ReKnovi&theme=dark&hide_border=false" align="right" />
+</div> 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReKnovi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="justified" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReKnovi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center" />
 </div>  
 
 
