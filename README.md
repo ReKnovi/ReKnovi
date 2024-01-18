@@ -1,4 +1,4 @@
-<h1 align="center">| Howdy, I Am Reknovi .AKA. Sujal Dongol |</h1>
+<h1 align="center">| Howdy, I Am ReKnovi .AKA. Sujal Dongol |</h1>
 
 - 🔭 I’m currently working as  Intern
 - 🌱 I’m currently learning Rust and Go.
