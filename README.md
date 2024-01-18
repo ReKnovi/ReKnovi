@@ -1,11 +1,11 @@
-<h1 align="center">Howdy</h1>
+<h1 align="center">| Howdy, I Am Reknovi .AKA. Sujal Dongol |</h1>
 
 - 🔭 I’m currently working as  Intern
 - 🌱 I’m currently learning Rust and Go.
 - 🗣 I speak English, Nepali.
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=Fortis+Fortuna+Adiuvat" alt="Intro" >
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=|Fortis+Fortuna+Adiuvat+|" alt="Intro" >
  
 <br/>  
 
