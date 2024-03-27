@@ -1,7 +1,7 @@
 <h1 align="center">| Howdy, I Am ReKnovi .AKA. Sujal Dongol |</h1>
 
 - 🔭 I’m currently working as  Intern
-- 🌱 I’m currently learning Rust and Go.
+- 🌱 I’m currently learning PHP and React.js.
 - 🗣 I speak English, Nepali.
 
 <p align="center">
